@@ -1,1 +1,1 @@
-hello
+[![Build Status](https://travis-ci.org/rossworton/sem.svg?branch=master)](https://travis-ci.org/rossworton/sem)
